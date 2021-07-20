@@ -1,0 +1,23 @@
+{
+  "name": "react_ecg_chart_component",
+  "version": "0.0.1",
+  "description": "React ECG Chart Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aqoong/react_ecg_chart_component.git"
+  },
+  "keywords": [
+    "ECG",
+    "Chart"
+  ],
+  "author": "AQoong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aqoong/react_ecg_chart_component/issues"
+  },
+  "homepage": "https://github.com/aqoong/react_ecg_chart_component#readme"
+}
