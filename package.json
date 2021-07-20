@@ -1,6 +1,6 @@
 {
   "name": "react_ecg_chart_component",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "React ECG Chart Component",
   "main": "index.js",
   "scripts": {
